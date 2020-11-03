@@ -1,7 +1,7 @@
 # velociraptor-ecs
-ECS Mappings for Velociraptor artifacts...in progess!
+[ECS](https://www.elastic.co/guide/en/ecs/current/index.html) Mappings for Velociraptor artifacts...in progess!
 
-These are a first attempt at defining ECS-compliant mappings for the native artifact output supplied by Velocidex Velociraptor.
+These are a first attempt at defining [ECS](https://www.elastic.co/guide/en/ecs/current/index.html)-compliant mappings for the native artifact output supplied by Velocidex Velociraptor.
 
 Please keep in mind, this is a work in progress, and new artifact mappings will be added/updated frequently.
 
